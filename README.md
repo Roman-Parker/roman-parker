@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/roman-parker/count.svg)
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts, mysql, c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue, pinia, ,git,postman,figma" />
+</p>
+
+<hr>
 
 <!--
 **Roman-Parker/roman-parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
