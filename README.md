@@ -2,14 +2,7 @@
 
 ## 🛠️ Languages and Tools
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts, mysql, c#" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue, pinia, ,git,postman,figma" />
-</p>
-
-<hr>
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=javascript,html,css,webassembly)
 
 <!--
 **Roman-Parker/roman-parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
