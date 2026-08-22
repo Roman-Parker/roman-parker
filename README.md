@@ -1,4 +1,8 @@
+## Hey! Welcome to my page!
 
+## Some of the tools i work with:
+
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=javascript,html,css,vue,typescript,python,docker,mysql,c#,dotnet,aws,linux,bash,github,jira)
 
 
 <!--
